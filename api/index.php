@@ -1,4 +1,4 @@
 <?php 
-require __DIR__ .  "../pulic/index.php"
+require __DIR__ .  "../public/index.php"
 
 ?>
